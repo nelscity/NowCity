@@ -1,0 +1,155 @@
+/* Reset text-decoration for the link */
+.square-link {
+    text-decoration: none;
+}
+
+:root {
+    --text-color: #1d1d1d;
+    --background-color: #ffffff;
+    --square-gradient-1: #bfbfbf;
+    --square-gradient-2: #8f8f8f;
+    --square-active-gradient-1: #7f7f7f;
+    --square-active-gradient-2: #4f4f4f;
+    --square-text-color: #ffffff;
+    --link-color: #0066cc;
+    --link-visited-color: #551a8b;
+    --link-hover-color: #004499;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --text-color: #e0e0e0;
+        --background-color: #121212;
+        --square-gradient-1: #505050;
+        --square-gradient-2: #303030;
+        --square-active-gradient-1: #404040;
+        --square-active-gradient-2: #202020;
+        --square-text-color: #ffffff;
+        --link-color: #66b2ff;
+        --link-visited-color: #bb86fc;
+        --link-hover-color: #99ccff;
+    }
+}
+
+a {
+    color: var(--link-color);
+    transition: color 0.2s ease;
+}
+
+a:visited {
+    color: var(--link-visited-color);
+}
+
+a:hover, a:focus {
+    color: var(--link-hover-color);
+}
+
+.square-link:hover .square {
+    background: linear-gradient(30deg, var(--square-gradient-1), var(--square-gradient-2));
+}
+
+.square-link:active .square {
+    background: linear-gradient(30deg, var(--square-active-gradient-1), var(--square-active-gradient-2));
+    /* darken gradient on click */
+}
+
+body {
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 1em;
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+/* Typography */
+/* Headers */
+h1 {
+    font-size: 1.6rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    color: var(--text-color);
+}
+
+h2 {
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    color: var(--text-color);
+}
+
+h3 {
+    font-size: 1rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    color: var(--text-color);
+}
+
+/* Paragraphs */
+p {
+    line-height: 1.5rem;
+    font-family: sans-serif;
+    color: var(--text-color);
+}
+
+/* Lists */
+li,
+ul,
+ol {
+    line-height: 1.33rem;
+    margin-top: 0.33rem;
+    margin-bottom: 0.33rem;
+    font-family: sans-serif;
+    color: var(--text-color);
+}
+
+/* Table */
+td {
+    font-size: 0.9rem;
+    line-height: 1.33rem;
+    font-family: sans-serif;
+    color: var(--text-color);
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Distribute space evenly */
+    gap: 10px; /* Space between thumbnails */
+}
+
+.thumbnail {
+    width: calc(33.33% - 7px); /* Three thumbnails per row, considering the gap */
+    height: 200px; /* Fixed height */
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+}
+
+.thumbnail img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Cover the thumbnail area while maintaining aspect ratio */
+}
+
+.square {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(45deg, var(--square-gradient-1), var(--square-gradient-2));
+    transition: background 0.3s ease;
+}
+
+.square p {
+    font-family: serif;
+    font-size: 52px;
+    color: var(--square-text-color);
+    text-align: center;
+    margin: 0;
+    line-height: 1;
+    transform: translateY(-10%);
+    font-weight: 600;
+}
