@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+markdown: kramdown
+theme: architect
 title: Now City
 description: A community focused on long-term urbanism
