@@ -5,7 +5,7 @@ title: Now City
 
 # Now City
 
-A community focused on **long-term urbanism**
+A community focused on **long-term urbanism** with a mixture of speculative design and a concern for future generations.
 
 ## Topics
 - SLR max: Urban design for the maximum extent of sea level rise
