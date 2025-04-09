@@ -9,18 +9,19 @@ A community focused on **long-term urbanism** with a mixture of speculative desi
 
 ## Topics
 - SLR max: Urban design for the maximum extent of sea level rise
-- Organized migration: Moving billions of people away from extreme heat at the equator to newly arable land
+- [[Organized migration]]: Moving billions of people away from extreme heat at the equator to newly arable land
 - Entropy max: A framework for thinking about long-term investments
 - FAR 3.0: A pattern language for resource efficient walkable urbanism
 - Robo districts: What is a robot district and how can it make human districts even better
 - Permacity: Permaculture ethos applies to urbanism
 - Post placebased solutions: What happens to cities when place is replaced by movement
+- [[Smart urbanism]]: Technology, trust, and ecology
 
 ## About
 
 Now City is a line of inquiry, inclusive of the following topics. How can a “smart city” both take full advantage of both computing and sensing technology without losing the warranted trust of its citizens? How can a city be ecologically sustainable while also being global? How can a city be wealthy without also disenfranchising those who do not share that wealth? How can a city be self-determined by its citizens while also accepting guidance from earned wisdom?
 
-The problems being posed to representative democratic institutions are complex, and historical evidence would suggest that our current institutions lack the capacity to solve issues like climate change and social inequality. We believe that the codes that govern cities could be improved to enable mutualism through innovative mechanism design, especially in the realms of decision-making and ownership. We are inspired by Jane Jacobs’ Cities and the Wealth of Nations, Nils Gilman’s The Mutualist Economy: A New Deal for Ownership, Benjamin Bratton’s The Stack, and Constant Nieuwenhuys’ New Babylon.
+The problems being posed to representative democratic institutions are complex, and historical evidence would suggest that our current institutions lack the capacity to solve issues like climate change and social inequality. We believe that the codes that govern cities could be improved to enable mutualism through innovative mechanism design, especially in the realms of decision-making and ownership. 
 
 ## Long-term urbanism
 
