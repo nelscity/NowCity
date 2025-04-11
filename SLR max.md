@@ -4,10 +4,13 @@ title: Now City - SLR max
 ---
 # SLR max
 
+## SLR max implications for long-term urbanism
+When it comes time to relocate New York, Boston, Washington DC, Miami, or another coastal city after a major disaster, don't just move a few feet up the road or build slightly higher barriers, instead relocate to 70 meters (230 feet) above current sea level. This strategy will payoff in the long-term through the enduring legacy of planning and investment, like the ancient roads in Greece that are still being used millennia later.
+
 ## Why 70 meters is the max
 Long-term investment in cities should be located at least [70m (~230')](https://www.usgs.gov/faqs/how-would-sea-level-change-if-all-glaciers-melted) above GMSL 1993 (1-2m variance from NAVD88 for us North Americans) because the there is enough heat in the ocean already from Global Warming to melt the surface ice.
 
-When scientists talk about “if all the surface ice melted,” they generally mean that every bit of land‐based ice—including the vast Antarctic and Greenland ice sheets as well as all smaller glaciers and ice caps—were to melt completely. Under this scenario, the global mean sea level is estimated to rise by roughly 70 meters (about 230 feet) relative to today’s sea level. Under current estimates based on the mass of the ice sheets and glaciers: the **Antarctic ice sheet** contributes roughly **58 m**, the **Greenland ice sheet** adds about **7 m**, and all **other glacier ice** contributes an additional **~0.4–0.6 m**. Together, these components store over 99% of the Earth's freshwater ice and add up to approximately 70 meters of global sea level rise. 
+When scientists talk about “if all the surface ice melted,” they generally mean that every bit of land‐based ice, including the vast Antarctic and Greenland ice sheets as well as all smaller glaciers and ice caps, were to melt completely. Under this scenario, the global mean sea level is estimated to rise by roughly 70 meters (about 230 feet) relative to today’s sea level. Under current estimates based on the mass of the ice sheets and glaciers: the Antarctic ice sheet contributes roughly 58 m, the Greenland ice sheet adds about 7 m, and all other glacier ice contributes an additional ~0.4–0.6 m. Together, these components store over 99% of the Earth's freshwater ice and add up to approximately 70 meters of global sea level rise. 
 
 This is actually good news, because 500 million years ago the sea level was about [180-225 meters](https://www.pnas.org/doi/10.1073/pnas.2013083118) above current levels, but that was due to reduced ocean basin volume due to rapid seafloor spreading.
 
@@ -33,8 +36,11 @@ Here are some examples made with [this calculator](/SLRcalc):
 - **Suspension Bridges:** 150 years - 2.80 meters (9.19 feet)  
 - **Concrete Dams:** 200 years - 4.00 meters (13.12 feet)
 
-Most flood risk right now thinks about the "1-in-500 year storm" (or, 0.2% chance storm). While it is important to consider those individual events that will cause flooding, I think it also useful to consider the impact of SLR in relation to the expected lifespan of the infastructure. 
+Most flood risk right now thinks about the "1-in-500 year storm" (or, 0.2% chance storm). While it is important to consider those individual events that will cause flooding, it also useful to consider the impact of SLR in relation to the expected lifespan of the infrastructure.
 
-## Some long-term suggestions for Massachusetts in particular
-- Build I-495 corridor, which is 70m above NAVD88
-- Move State House to Worcester
+## On a personal note
+Living in Amsterdam is melancholy because it is in some ways an ideal city, and they continue to improve it, but given the state of affairs it is necessarily doomed. I'm not saying that it will be underwater immediately, in fact it will likely outlive most coastal cities because it is so well protected, but over the course of hundreds of years, it will be less and less viable to maintain. On the other hand, being in a high desert like El Paso, Texas, one can imagine how what investments are made are likely to be there for the foreseeable future, like the ancient cliff dwellings in Arizona, or the pyramids. 
+
+Similarly, in my hometown of Boston, it is tempting to spend serious effort to build "Dutch-style" coastal protection by building a ring of dams through the barrier islands. However, this investment would only encourage more investment in the areas that are essentially doomed. This realization pushed me to consider coastal management as the preferred approach over coastal protection. 
+
+Instead of spending the resources to protect the shore, Massachusetts should invest upland, for example along the I-495 corridor (which is 70 meters above sea level). The advantage is that a brick laid there will be there for a long time to come and the land is currently relatively inexpensive compared to the coast, so creating new centers of growth is more feasible. By the same token, the State Capitol should be moved to Worcester.
