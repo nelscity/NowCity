@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: " en-US" }}">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="../destijl.css">
+    <meta property="og:url" content="https://nowcity.org">
+    <meta property="og:title" content="Now City">
+    <title>Now City - Worst-Case Sea Level Rise Elevation Calculator</title>
+</head>
+
+<body>
+    <div class="wrapper">
+
+        <body>
+
+            <h1>Worst-Case Sea Level Rise Elevation Calculator (Boston, MA Area)</h1>
+            <p>Estimate how much higher infrastructure might need to be built today to stay above projected mean sea level for its intended lifespan, based on a high-end ("worst-case" for planning) scenario.</p>
+
+            <label for="lifespan">Desired Lifespan (years from now):</label>
+            <input type="number" id="lifespan" value="100">
+
+            <button id="calculateBtn">Calculate Required Elevation</button>
+
+            <div id="result"></div>
+
+            <div class="note">
+                <p><strong>Note:</strong> This calculator uses the <strong>NOAA 'High' scenario</strong> median projections from the 2022 Sea Level Rise Technical Report specifically for Boston, MA (relative to a 2000 baseline) as a plausible "worst-case" planning scenario. It calculates the projected rise from 2025 to the end of the lifespan.</p>
+                <p>This tool is for informational purposes only. Real-world projects require detailed, site-specific engineering assessments, consideration of local guidance, storm surge, tides, wave action, and appropriate safety factors.</p>
+            </div>
+
+    <script src="slr_calculator.js"></script>
+    <script src="{{ " /assets/js/scale.fix.js" | relative_url }}"></script>
+</body>
+
+</html>

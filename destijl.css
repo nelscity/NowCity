@@ -40,14 +40,15 @@ a:hover, a:focus {
     color: var(--link-hover-color);
 }
 
-body { 
-  line-height: 1.4;
+body {
+    line-height: 1.4;
     font-size: 16px;
     padding: 0 10px;
     margin: 50px auto;
     max-width: 42em;
     background-color: var(--background-color);
     color: var(--text-color);
+    font-family: sans-serif; 
 }
 
 /* Typography */
