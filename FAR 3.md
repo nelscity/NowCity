@@ -13,7 +13,9 @@ Your favorite cities are FAR 3: Barcelona, Paris, Brooklyn, Manhattan Lower East
 ## FAR 3 supports amenities and services within walking distance
 If you really look at some of the new mixed-use districts being put up by REITs across the country, they have a walking street but are not walkable communities, because they are on life support from the copious parking garages that allow 
 ## FAR 3 walkups
-Three to six stories not only enables residents to walk to amenities, it also supports walking up to the residence. In this way, human-scale also includes building interiors. Charles Montgomery's Happy City was in a large part a reaction against the tower lifestyle in Vancouver and embraces the low-rise high density of townhome living. Human-scale is being able to communicate with people on the street, being able to use the stairs to get home.
+Long-term urbanism benefits from being low-tech. And FAR 3 with buildings between three and six stories allows stair access to residences for the majority of residents who are able to walk. Walkups also extend the idea of a walkable city from the streets into buildings' interior circulation.
+
+Charles Montgomery's Happy City was in a large part a reaction against the tower lifestyle in Vancouver and embraces the low-rise high density of townhome living. Human-scale is being able to communicate with people on the street, being able to use the stairs to get home.
 
 I spent a lot of time working on the first WELL Community, and going on the conference circuit talking about healthy cities. There are a lot of operational things that communities can do to have better healthy outcomes, but from the scale of a master plan, the biggest one by far is just ensuring walkable density. That, and considering planting non-allergenic trees. But mostly walkability. With FAR 3, walkability is 3D, as it also extends into the building and up the stairs.
 

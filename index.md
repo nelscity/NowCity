@@ -2,11 +2,9 @@
 layout: root
 title: Now City
 ---
-
 # Now City
 
 A line of inquiry focused on **long-term urbanism** with a mixture of speculative design and a concern for future generations.
-
 ## Topics
 These topics are roughly ordered by higher level goal setting to more applied practical matters.
 - [Entropy max](Entropy%20max): A framework for thinking about long-term goals
