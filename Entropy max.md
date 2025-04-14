@@ -14,3 +14,4 @@ Can we measure humanity's long-term success by how much entropy we create? Now, 
 In order to achieve entropy maximization at that scale, we would need to be very conservative and efficient with our energy and material use today. This means maintaining the quality of environment, cooperation, and literal sustainability and resilience.
 
 Life itself is too absurd to have an inherent goal like entropy, but entropy is at least a physical and measurable outcome of life. In this context, long-term entropy maximization is a potentially useful thermodynamic framing for evaluating actions today. This may be especially useful for evaluating resource use and may need to be paired with other philosophies that consider consciousness and well-being during our entropy maximization quest. 
+
