@@ -2,9 +2,9 @@
 layout: default
 title: Now City - SLR max
 ---
-# SLR max
+# Max Sea Level Rise
 
-## SLR max implications for long-term urbanism
+## Max SLR max implications for long-term urbanism
 When it comes time to relocate New York, Boston, Washington DC, Miami, or another coastal city after a major disaster, don't just move a few feet up the road or build slightly higher barriers, instead relocate to 70 meters (230 feet) above current sea level. This strategy will payoff in the long-term through the enduring legacy of planning and investment, like the ancient roads in Greece that are still being used millennia later.
 
 ## Why 70 meters is the max
