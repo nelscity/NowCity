@@ -15,7 +15,7 @@ This attempts to ground the high level goals expressed in [Max entropy](Max%20en
 - Low-carbon investment driven by self-sufficiency, efficiency, and resilience rather than the goal of low-carbon itself. The cost of subsidizing green solutions to achieve low-carbon trajectories is increasingly out of reach. However, the stone age didn't end because we ran out of stones, and so the fossil fuel age hopefully doesn't end because we run out of fossil fuel, but because we find more attractive alternative technologies that perform better.
 - Technology-native population but not necessarily more democratic or connected due to a simultaneously monopolized and fragmented landscape (see [Smart urbanism](Smart%20urbanism.md))
 ### Status quo likely to remain
-- Construction with wood and masonry. Likely more offsite construction.
+- Construction with wood and masonry. 
 - Communities organized around proximity and shared interests, with different scales of intimacy aren't going anywhere. 
 - Physical schools for children 2-18 will remain. 
 - Some amount of shopping for daily needs and specialty goods, and increasingly repair, is needed. 

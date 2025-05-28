@@ -9,7 +9,7 @@ Jeff Speck wrote a tweet-length "zoning code". It was something like, "zero fron
 
 Trust me, I did the math, and the right density is FAR 3. If an area is well served by schools, shops, transportation, and parks, then communities should allow FAR 3. I believe this will enable truly walkable, affordable, resilient, and sustainable communities, and responds well to the current state of building technology and financing.
 
-Your favorite cities are FAR 3: Barcelona, Paris, Brooklyn, Manhattan Lower East Side, Boston North End, Capitol Hill Seattle, parts of Los Angeles.
+Many famous cities and neighborhoods are FAR 3: Barcelona, Paris, Brooklyn, Manhattan Lower East Side, Boston North End, Capitol Hill Seattle, parts of Los Angeles.
 ## FAR 3 supports amenities and services within walking distance
 If you really look at some of the new mixed-use districts being put up by REITs across the country, they have a walking street but are not walkable communities, because they are on life support from the copious parking garages that allow 
 ## FAR 3 walkups
