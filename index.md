@@ -10,9 +10,9 @@ These topics are roughly ordered by higher level goal setting to more applied pr
 - [Max entropy](Max%20entropy.md): Framework for thinking about long-term goals
 - [A world to design for](A%20world%20to%20design%20for.md): Broad vision for community development
 - [Max SLR](Max%20SLR.md): Urban design for the maximum extent of sea level rise
-- [Organized migration](Organized%20migration): Moving billions of people away from extreme heat at the equator to newly arable land
-- [[Post place-based solutions]]: What happens to cities when place is replaced by movement
-- [Smart urbanism](Smart%20urbanism): City-technology interfaces, privacy, trust, and ecology
+- [Organized migration](NowCity/Organized%20migration.md): Moving billions of people away from extreme heat at the equator to newly arable land
+- [[NowCity/Post place-based solutions]]: What happens to cities when place is replaced by movement
+- [Smart urbanism](NowCity/Smart%20urbanism.md): City-technology interfaces, privacy, trust, and ecology
 - [FAR 3](FAR%203): A pattern language for resource efficient-walkable urbanism
 - [Robodistricts](Robodistricts): What is a robot district and how can it make human districts even better
 - Permacity: Permaculture ethos applies to urbanism
