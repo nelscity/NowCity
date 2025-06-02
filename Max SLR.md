@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Now City - SLR max
+title: Max SLR
+nav_order: 3
 ---
 # Max Sea Level Rise
 
@@ -30,7 +30,7 @@ Or, how long is your ambition?
 
 Not everything is a timeless monument. Planting crops near sea level is fine. Making improvements to homes near sea level is fine. But, when considering infrastructure with longer lifespans, it is worth building at higher elevations. 
 
-Here are some examples made with [this calculator](/SLRcalc):
+Here are some examples:
 - **Residential buildings and roads**: 50 years - 0.60 meters (2 feet). Note, this is similar to the typical "design flood elevation" that is 2 feet above FEMA's base flood elevation (BFE)
 - **Commercial buildings:** 100 years - 1.60 meters (5.25 feet)
 - **Suspension Bridges:** 150 years - 2.80 meters (9.19 feet)  

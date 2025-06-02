@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Now City - Organized migration
+title: Organized migration
+nav_order: 4
 ---
 # Organized migration
 

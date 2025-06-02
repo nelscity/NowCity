@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Now City - Smart urbanism
+title: Smart urbanism
+nav_order: 98
 ---
 
 # Smart urbanism
