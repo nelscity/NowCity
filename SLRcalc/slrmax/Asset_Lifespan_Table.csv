@@ -1,0 +1,18 @@
+Asset,Max Years,Annual SLR feet,Feet
+Asphalt Roads,25,0.017,0.4
+Concrete Roads,50,0.017,0.8
+Steel Bridges,75,0.017,1.3
+Concrete Bridges,100,0.017,1.7
+Suspension Bridges,150,0.017,2.5
+Residential Buildings (Wood Frame),100,0.017,1.7
+Residential Buildings (Concrete or Brick),150,0.017,2.5
+Commercial High-Rises,100,0.017,1.7
+Industrial Buildings,60,0.017,1.0
+Concrete Tunnels,100,0.017,1.7
+Water and Sewer Pipes (Cast Iron or Concrete),100,0.017,1.7
+Power Lines and Utility Poles,50,0.017,0.8
+Concrete Sidewalks,75,0.017,1.3
+Brick Pavers,100,0.017,1.7
+Concrete Dams,200,0.017,3.3
+Earthen Dams,100,0.017,1.7
+Concrete Parking Structures,50,0.017,0.8
