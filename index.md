@@ -5,8 +5,11 @@ title: Now City
 # Now City
 
 A line of inquiry focused on **long-term urbanism** with a mixture of speculative design and a concern for future generations.
+
 ## Topics
+
 These topics are roughly ordered by higher level goal setting to more applied practical matters.
+
 - <a href="./Max%20entropy">Max entropy</a>: Framework for thinking about long-term goals
 - <a href="./A%20world%20to%20design%20for">A world to design for</a>: Broad vision for community development
 - <a href="./Max%20SLR">Max SLR</a>: Urban design for the maximum extent of sea level rise

@@ -10,8 +10,13 @@ Place can be surprisingly impermanent. Railroad towns, factory towns, canal town
 Space-time-capital-based solutions, or solutions that can "follow the money" is another framework.
 
 ## What people are talking about when they talk about place-based solutions
+
 I'll come back in and add a section here.
+
 ## Shortcomings of place-based as a primary frame
+
 Might lead to over-indexing on place, when in fact solutions should "follow the puck".
+
 ## Some alternative framings
+
 Temporary-based solutions
