@@ -28,4 +28,4 @@ I'm not anti-elevator, but I also think the requirement for all residential buil
 
 ## Put a house on it
 
-In areas served by infrastructure and amenities, project proponents should have to make a good case why housing shouldn't be on top of another use. New grocery store? Would be great with at least three stories of housing on top. New library? Throw some housing on there. Office? The thinner dimension of housing stack well on top. In parts of town that are unsafe for humans (see [Robodistricts](Robodistricts)) there obviously shouldn't be housing, but everywhere else its a good bet.
+In areas served by infrastructure and amenities, project proponents should have to make a good case why housing shouldn't be on top of another use. New grocery store? Would be great with at least three stories of housing on top. New library? Throw some housing on there. Office? The thinner dimension of housing stack well on top. In parts of town that are unsafe for humans (see <a href="Robodistricts">Robodistricts</a>) there obviously shouldn't be housing, but everywhere else its a good bet.
