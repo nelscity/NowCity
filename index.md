@@ -4,7 +4,7 @@ title: Now City
 ---
 # Now City
 
-A line of inquiry focused on **long-term urbanism** with a mixture of speculative design and a concern for future generations.
+Now City is a line of inquiry focused on **long-term urbanism** with a mixture of speculative design and a concern for future generations. It is an exploration of urban futures, grounded in the belief that the cities we build today must be designed with a multi-generational perspective. It is a response to the challenges and opportunities of our time: climate change, technological acceleration, and the shifting nature of community. Now City is not about predicting the future, but about creating the conditions for a flourishing one, guided by responsibility for the generations who will inhabit the world we leave behind.
 
 ## Topics
 
