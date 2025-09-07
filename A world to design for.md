@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Now City - A world to design for
 ---
 

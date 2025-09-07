@@ -1,4 +1,4 @@
----
+layout: page
 title: Robodistricts
 nav_order: 99
 ---

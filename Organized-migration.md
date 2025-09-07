@@ -1,4 +1,4 @@
----
+layout: page
 title: Organized migration
 nav_order: 4
 ---

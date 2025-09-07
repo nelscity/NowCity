@@ -1,3 +1,7 @@
+---
+layout: page
+title: Reading
+---
 
 - Nils Gilman’s The Mutualist Economy: A New Deal for Ownership
 - Benjamin Bratton, the Stack

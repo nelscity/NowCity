@@ -1,4 +1,4 @@
----
+layout: page
 title: Smart urbanism
 nav_order: 98
 ---

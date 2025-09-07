@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Now City - FAR 3
 ---
 # FAR 3

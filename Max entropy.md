@@ -1,4 +1,4 @@
----
+layout: page
 title: Max entropy
 nav_order: 2
 ---
