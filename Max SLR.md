@@ -1,3 +1,4 @@
+---
 layout: page
 title: Max SLR
 nav_order: 3
