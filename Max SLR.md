@@ -5,9 +5,12 @@ nav_order: 3
 ---
 # Max Sea Level Rise
 
-## Max SLR max implications for long-term urbanism
+Current coastal management practices encourage further unsustainable investment into flood prone areas. Also, investment in long-term infastructure (roads, bridges, and other patterns that could last for hundreds of years) don't consider centuries' worth of SLR.
+
+▷ **Don't over invest in "coastal protection" that will incur more investment in current and future flood areas. When building new infrastructure, consider the longevity of those investments against projected sea level rise and consider the benefit of jumping up to 70m (230ft) above current sea level. When rebuilding cities and infrastructure impacted by climate change, don't simply move incrementally more inland. Finally, closely consider the implications of any investments made 70m (230ft) above current sea level, because those patterns could be in place for a long time.**
 
 When it comes time to relocate New York, Boston, Washington DC, Miami, or another coastal city after a major disaster, don't just move a few feet up the road or build slightly higher barriers, instead relocate to 70 meters (230 feet) above current sea level. This strategy will payoff in the long-term through the enduring legacy of planning and investment, like the ancient roads in Greece that are still being used millennia later.
+
 
 ## Why 70 meters is the max
 

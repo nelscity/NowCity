@@ -1,8 +1,12 @@
 ---
 layout: page
-title: Now City - FAR 3
+title: FAR 3
 ---
 # FAR 3
+
+Walkable cities are more than sidewalks and street trees. In order to have a walkable 15-minute city, the density needs to be able to support all required land uses within a certain radius. Thankfully, this density number is computable.
+
+▷ **Within an urban growth boundary, the target floor area ratio (FAR) should be about 3:1 to provide enough floor area per resident for living, working, shopping, education, and other amenities to support modern life's needs within a walkable distance.**
 
 ## FAR 3 is a cheat code
 
