@@ -95,3 +95,38 @@ td {
     font-family: sans-serif;
     color: var(--text-color);
 }
+
+/* Increase text size only on mobile */
+@media (max-width: 768px) {
+  body {
+    font-size: 1.35rem; /* ~21.6px */
+    line-height: 1.6;
+  }
+
+  p {
+    line-height: 1.7rem;
+  }
+
+  li, ul, ol {
+    line-height: 1.5rem;
+  }
+
+  /* Headings slightly larger than paragraph text */
+  h1 {
+    font-size: 1.8rem; /* previously 1.6rem */
+    line-height: 1.6;
+    margin-top: 1.7rem;
+  }
+
+  h2 {
+    font-size: 1.5rem; /* previously 1.2rem */
+    line-height: 1.7;
+    margin-top: 1.2rem;
+  }
+
+  h3 {
+    font-size: 1.35rem; /* previously 1rem */
+    line-height: 1.7;
+    margin-top: 1rem;
+  }
+}
