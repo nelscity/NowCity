@@ -4,14 +4,16 @@ title: Now City
 ---
 # Now City
 
-Now City is a line of inquiry focused on **long-term urbanism** with a mixture of speculative design and a concern for future generations. It is an exploration of urban futures, grounded in the belief that the cities we build today must be designed with a multi-generational perspective. It is a response to the challenges and opportunities of our time: climate change, technological acceleration, and the shifting nature of community. Now City is not about predicting the future, but about creating the conditions for a flourishing one, guided by responsibility for the generations who will inhabit the world we leave behind.
+Now City is a line of inquiry focused on **long-term urbanism** with a mixture of speculative design and a concern for future generations. It is an exploration of urban futures, grounded in the belief that the cities we build today must be designed with a multi-generational perspective. 
+
+Now City is a response to the challenges and opportunities of our time: climate change, technological acceleration, and the shifting nature of community. Now City is not about predicting the future, but about creating the conditions for a flourishing one, guided by responsibility for the generations who will inhabit the world we leave behind.
 
 ## Topics
 
 These topics are roughly ordered by higher level goal setting to more applied practical matters.
 
+- <a href="./A%20world%20to%20design%20for">A world to design for</a>: A sort of preface outlining expected long-term trends and a broad vision for community development
 - <a href="./Max%20entropy">Max entropy</a>: Framework for thinking about long-term goals
-- <a href="./A%20world%20to%20design%20for">A world to design for</a>: Broad vision for community development
 - <a href="./Max%20SLR">Max SLR</a>: Urban design for the maximum extent of sea level rise
 - <a href="./Organized-migration">Organized migration</a>: Moving billions of people away from extreme heat at the equator to newly arable land
 - <a href="./Post-place-based-solutions">Post place-based solutions</a>: What happens to cities when place is replaced by movement

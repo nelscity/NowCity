@@ -1,6 +1,7 @@
 ---
+nav_order: 1
 layout: page
-title: Now City - A world to design for
+title: A world to design for
 ---
 
 # A world to design for

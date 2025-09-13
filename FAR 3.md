@@ -8,11 +8,11 @@ Walkable cities are more than sidewalks and street trees. In order to have a wal
 
 ▷ **Within an urban growth boundary, the target floor area ratio (FAR) should be about 3:1 to provide enough floor area per resident for living, working, shopping, education, and other amenities to support modern life's needs within a walkable distance.**
 
-## FAR 3 is a cheat code
-
 Jeff Speck wrote a tweet-length "zoning code". It was something like, "zero front setback, parking in the rear". I think a similar shorthand for achieving a walkable city is FAR 3. For the uninitiated, floor-area ratio (FAR) 3 means an average of three times as much building area for each unit of lot area. In practice, after some of the site is used of open space and circulation, this means buildings that are 3-6 stories high.
 
-Trust me, I did the math, and the right density is FAR 3. If an area is well served by schools, shops, transportation, and parks, then communities should allow FAR 3. I believe this will enable truly walkable, affordable, resilient, and sustainable communities, and responds well to the current state of building technology and financing.
+## FAR 3 is a cheat code
+
+The right density is FAR 3. If an area is well served by schools, shops, transportation, and parks, then communities should allow FAR 3. I believe this will enable truly walkable, affordable, resilient, and sustainable communities, and responds well to the current state of building technology and financing.
 
 Many famous cities and neighborhoods are FAR 3: Barcelona, Paris, Brooklyn, Manhattan Lower East Side, Boston North End, Capitol Hill Seattle, parts of Los Angeles.
 

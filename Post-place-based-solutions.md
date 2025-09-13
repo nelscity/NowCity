@@ -10,14 +10,8 @@ Place can be surprisingly impermanent. Railroad towns, factory towns, canal town
 
 ▷ **Don't over-index on places, instead establish a framework adjust resource allocation to "where the puck is / will be" in emerging space-time-capital-based solutions.**
 
-## What people are talking about when they talk about place-based solutions
-
-I'll come back in and add a section here.
+What are people are talking about when they talk about place-based solutions? Is it investment in a certain lat long coordinates, or somehow embedded in a human network, or other niche? 
 
 ## Shortcomings of place-based as a primary frame
 
 Might lead to over-indexing on place, when in fact solutions should "follow the puck".
-
-## Some alternative framings
-
-Temporary-based solutions

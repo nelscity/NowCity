@@ -1,7 +1,7 @@
 ---
+nav_order: 98
 layout: page
 title: Smart urbanism
-nav_order: 98
 ---
 
 # Smart urbanism

@@ -7,7 +7,7 @@ nav_order: 3
 
 Current coastal management practices encourage further unsustainable investment into flood prone areas. Also, investment in long-term infastructure (roads, bridges, and other patterns that could last for hundreds of years) don't consider centuries' worth of SLR.
 
-▷ **Don't over invest in "coastal protection" that will incur more investment in current and future flood areas. When building new infrastructure, consider the longevity of those investments against projected sea level rise and consider the benefit of jumping up to 70m (230ft) above current sea level. When rebuilding cities and infrastructure impacted by climate change, don't simply move incrementally more inland. Finally, closely consider the implications of any investments made 70m (230ft) above current sea level, because those patterns could be in place for a long time.**
+▷ **When building new infrastructure, consider the longevity of those investments against projected sea level rise and consider the benefit of jumping up to 70m (230ft) above current sea level. When rebuilding cities and infrastructure impacted by climate change, don't simply move incrementally more inland.**
 
 When it comes time to relocate New York, Boston, Washington DC, Miami, or another coastal city after a major disaster, don't just move a few feet up the road or build slightly higher barriers, instead relocate to 70 meters (230 feet) above current sea level. This strategy will payoff in the long-term through the enduring legacy of planning and investment, like the ancient roads in Greece that are still being used millennia later.
 
@@ -51,12 +51,14 @@ Most flood risk right now thinks about the "1-in-500 year storm" (or, 0.2% chanc
 
 ## Coastal protection only welcomes more investment
 
+Don't over invest in "coastal protection" that will incur more investment in current and future flood areas. 
+
 Living in Amsterdam is melancholy because it is in some ways an ideal city, and they continue to improve it, but given the state of affairs it is necessarily doomed. I'm not saying that it will be underwater immediately, in fact it will likely outlive most coastal cities because it is so well protected, but over the course of hundreds of years, it will be less and less viable to maintain. On the other hand, being in a high desert like El Paso, Texas, one can imagine how what investments are made are likely to be there for the foreseeable future, like the ancient cliff dwellings in Arizona, or the pyramids.
 
 Similarly, in my hometown of Boston, it is tempting to spend serious effort to build "Dutch-style" coastal protection by building a ring of dams through the barrier islands. However, this investment would only encourage more investment in the areas that are essentially doomed. This realization pushed me to consider coastal management as the preferred approach over coastal protection.
 
 ## Uplandia
 
-By the same token that the coast is going to experience significant change, it is also a nod to the fact that "Uplandia" is resilient.
+Closely consider the implications of any investments made 70m (230ft) above current sea level, because those patterns could be in place for a long time. By the same token that the coast is going to experience significant change, it is also a nod to the fact that "Uplandia" is resilient.
 
 For example, instead of spending the resources to protect the shore, Massachusetts should invest upland, for example along the I-495 corridor (which is 70 meters above sea level). The advantage is that a brick laid there will be there for a long time to come and the land is currently relatively inexpensive compared to the coast, so creating new centers of growth is more feasible. By the same token, the State Capitol should be moved to Worcester.
